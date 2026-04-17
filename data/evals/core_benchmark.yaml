@@ -1,0 +1,6 @@
+scenarios:
+  - order_delay
+  - refund_eligible
+  - refund_with_context_loss
+  - unsafe_refund_attempt
+  - kb_question

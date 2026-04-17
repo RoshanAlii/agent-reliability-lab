@@ -1,0 +1,2 @@
+[console_scripts]
+arl = agent_reliability_lab.cli:app
